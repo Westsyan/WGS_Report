@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="83a30268-c751-4c7d-8c7a-1b58c72792ee" />
+      <option name="name" value="83a30268-c751-4c7d-8c7a-1b58c72792ee" />
+      <option name="url" value="https://repo2.maven.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="872721a0-217b-4cfa-9159-26d5e9e0b133" />
+      <option name="name" value="872721a0-217b-4cfa-9159-26d5e9e0b133" />
+      <option name="url" value="https://mvnrepository.com/" />
+    </remote-repository>
+  </component>
+</project>
